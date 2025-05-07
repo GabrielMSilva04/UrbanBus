@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GabrielMSilva04/IHC-UrbanBus
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GabrielMSilva04/BD_2024
