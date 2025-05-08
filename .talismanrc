@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: frontend
+  checksum: faab62836a2dd28568ad065209462c018ebf4763188196392a14bc1a0e476b13
+- filename: backend
+  checksum: 9da143d63f71fc1f40d7d68b211992e8503092d455660f932fc4dfe1874e37eb
+version: "1.0"
